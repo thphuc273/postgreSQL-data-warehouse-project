@@ -14,9 +14,11 @@ WARNING:
 
 DROP DATABASE IF EXISTS datawarehouse;
 
+-- Create database
 CREATE DATABASE DataWareHouse;
 GO
 
+-- Create schemas
 CREATE SCHEMA bronze;
 GO
 CREATE SCHEMA silver;
