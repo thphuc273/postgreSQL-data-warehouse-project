@@ -69,5 +69,6 @@ Develop a modern data warehouse using PostgreSQL to consolidate sales data, enab
 ```
 ---
 ## 🔑 References
-**[Data Warehouse and Analytics Project Youtube](https://youtu.be/9GVqKuTVANE?si=4GdBhf0V2exqMM3v)** 
-**[PostgreSQL Documentation](https://www.postgresql.org/docs/)** 
+**1. [Data Warehouse and Analytics Project Youtube](https://youtu.be/9GVqKuTVANE?si=4GdBhf0V2exqMM3v)** 
+
+**2. [PostgreSQL Documentation](https://www.postgresql.org/docs/)** 
