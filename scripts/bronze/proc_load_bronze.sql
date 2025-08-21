@@ -1,8 +1,10 @@
 
 /*
+================================================================================
 The script below is used to load data from CSV files into the PostgreSQL database.
 This is from client-side loading using the \copy command, loading to PostgreSQL database.
 It is efficient if we conduct on local machine and postgreSQL server does not have access to the file system.
+================================================================================
 */
 
 TRUNCATE TABLE bronze.crm_cust_info;

@@ -1,5 +1,16 @@
 
--- >>>>> FINAL PROCEDURE LOAD_SILVER()
+/*
+================================================================================
+Procedure: silver.load_silver
+================================================================================
+Script purpose:
+    This procedure loads data into the Silver layer of the data warehouse.
+    It transforms and cleanses data from the Bronze layer, ensuring that it is
+    ready for further processing in the Gold layer.
+*/
+-- ================================================================================
+-- FINAL PROCEDURE LOAD_SILVER()
+-- ================================================================================
 CREATE OR REPLACE PROCEDURE silver.load_silver()
 LANGUAGE plpgsql
 AS $$
