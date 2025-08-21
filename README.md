@@ -29,7 +29,7 @@ This project including:
 ---
 ## 🛠 Links & Tools:
 - **[Datasets](datasets):** Access to the project dataset (csv files).
-- **[PostgreSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your PostgreSQL database.
+- **[PostgreSQL](https://www.postgresql.org/download/):** PostgreSQL is a powerful, open-source relational database system known for its reliability, scalability, and advanced SQL compliance..
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 
@@ -68,3 +68,6 @@ Develop a modern data warehouse using PostgreSQL to consolidate sales data, enab
     └── README.md              # Project overview and instructions
 ```
 ---
+## 🔑 References
+**[Data Warehouse and Analytics Project Youtube](https://youtu.be/9GVqKuTVANE?si=4GdBhf0V2exqMM3v)** 
+**[PostgreSQL Documentation](https://www.postgresql.org/docs/)** 
